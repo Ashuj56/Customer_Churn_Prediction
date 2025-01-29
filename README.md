@@ -55,7 +55,7 @@ Customer churn is one of the biggest challenges faced by businesses. Predicting 
 3. Install the dependencies:
    pip install -r requirements.txt
 
-
+---
 
 ## Usage
 1. Place the dataset (WA_Fn-UseC_-Telco-Customer-Churn.csv) in the project directory.
@@ -67,7 +67,9 @@ Explore the dataset.
 Train machine learning models.
 Evaluate and visualize results.
 
-License
+---
+
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Steps to Use
